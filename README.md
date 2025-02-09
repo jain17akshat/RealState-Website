@@ -14,9 +14,6 @@ A modern and responsive Real Estate Website built using HTML, CSS, and JavaScrip
 HTML – Structure of the website
 CSS – Styling and responsiveness
 JavaScript – Interactive elements
-##See a live Preview of this project here ##
+##See a live Preview of this project here 
+https://real-state-website-pink.vercel.app/ ##
 
-🔗 Live Demo
-Visit Live Website ( https://jain17akshat.github.io/RealState-Website/)
- https://252e-2401-4900-7c6e-6773-135-f17-b5-f04a.ngrok-free.app
- 
