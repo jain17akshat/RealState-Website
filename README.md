@@ -8,7 +8,7 @@ A modern and responsive Real Estate Website built using HTML, CSS, and JavaScrip
 ✔️ Responsive Design – Works seamlessly on all devices.
 ✔️ Property Listings – Displays available properties with images, prices, and descriptions.
 ✔️ Search & Filter – Allows users to search and filter properties based on preferences.
-✔️ Interactive UI – Smooth animations and clean layouts for a better user experience.
+✔️ Interactive UI – Smooth animations and clean layouts for a better user experience..
 
 🚀 Technologies Used
 HTML – Structure of the website
